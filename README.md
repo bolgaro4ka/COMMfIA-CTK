@@ -41,6 +41,7 @@ There are the following models to choose from:
  - taichi-adv-256 
  - vox-256 
  - vox-adv-256
+
 For faces the model vox-256/vox-adv-256 is used
 
 **The Checkpoint name must match the model name!**
